@@ -1,0 +1,27 @@
+.container {
+  width: 100%;
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.box {
+  width: 200px;
+  min-height: 200px;
+  border: 2em;
+}
+
+.memory_game {
+  background-color: blue;
+}
+
+.arcade_game {
+  background-color: red;
+}
+
+.feed_reader {
+  background-color: green;
+}
+
+.restaurant_review {
+  background-color: purple;
+}
